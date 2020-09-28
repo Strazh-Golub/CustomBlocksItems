@@ -1,0 +1,6 @@
+name: CustomBlocksItems
+version: ${project.version}
+main: me.Cake_Manic.CustomBlocksItems
+api-version: 1.16
+authors: [ Cake_Manic ]
+description: A simple plugin library that allows you to have custom items / blocks.
